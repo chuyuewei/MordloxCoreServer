@@ -9,9 +9,13 @@ The intellectual property rights, including the copyright, for this project—co
 No rights or licenses are granted, either expressly or by implication, under this agreement. You have no rights to the Software other than the limited right to view its source code where it is made publicly available.
 
 The following actions are strictly prohibited:
+  
   i. **Use:** Running or integrating the Software into any project or product.
+  
   ii. **Modification:** Altering, translating, reverse-engineering, decompiling, or creating derivative works based on the Software.
+  
   iii. **Distribution:** Providing, transmitting, copying, or sharing all or any part of the Software with any third party through any medium.
+  
   iv. **Commercial Use:** Utilizing the Software for any direct or indirect commercial purposes, for-profit activities, or commercial services.
 
 ## 3. Requesting Permission
